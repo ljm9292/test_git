@@ -1,0 +1,42 @@
+loen8@DESKTOP-K8NLD6O MINGW64 /d/workspace/git
+$ ls -al
+total 1
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:40 ./
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:36 ../
+-rw-r--r-- 1 loen8 197609 5 Jun 16 09:41 test.txt
+
+loen8@DESKTOP-K8NLD6O MINGW64 /d/workspace/git
+$ ll
+total 1
+-rw-r--r-- 1 loen8 197609 5 Jun 16 09:41 test.txt
+
+loen8@DESKTOP-K8NLD6O MINGW64 /d/workspace/git
+$ ls -al
+total 1
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:40 ./
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:36 ../
+-rw-r--r-- 1 loen8 197609 5 Jun 16 09:41 test.txt
+
+loen8@DESKTOP-K8NLD6O MINGW64 /d/workspace/git
+$ ls -alS
+total 1
+-rw-r--r-- 1 loen8 197609 5 Jun 16 09:41 test.txt
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:40 ./
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:36 ../
+
+loen8@DESKTOP-K8NLD6O MINGW64 /d/workspace/git
+$ ls -alh
+total 1.0K
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:40 ./
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:36 ../
+-rw-r--r-- 1 loen8 197609 5 Jun 16 09:41 test.txt
+
+loen8@DESKTOP-K8NLD6O MINGW64 /d/workspace/git
+$ ls -alt
+total 1
+-rw-r--r-- 1 loen8 197609 5 Jun 16 09:41 test.txt
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:40 ./
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:36 ../
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:36 ../
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:36 ../
+drwxr-xr-x 1 loen8 197609 0 Jun 16 09:36 ../
